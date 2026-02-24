@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Gustavo Fischer
+#Olá, eu sou Gustavo Fischer
 
-💻 Estudante de Sistemas de Informação  
+💻 Estudante de Engenharia de Software   
 🚀 Desenvolvedor em formação com foco em Full Stack  
 📍 Santa Catarina, Brasil  
 
@@ -28,19 +28,15 @@ Estou sempre estudando, praticando e desenvolvendo projetos para evoluir tecnica
 ## 🛠 Tecnologias
 
 ### 💻 Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+
 
 ### 🗄 Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 Estatísticas GitHub
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoFischer1&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFischer1&layout=compact&theme=radical)
