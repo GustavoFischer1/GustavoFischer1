@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente curso Sistemas de Informação e busco minha primeira oportunidade na área de TI.
+Atualmente curso Engenharia de software e busco minha primeira oportunidade na área de TI.
 
 Tenho interesse em desenvolvimento Full Stack, com foco em backend, bancos de dados e construção de aplicações reais.
 
